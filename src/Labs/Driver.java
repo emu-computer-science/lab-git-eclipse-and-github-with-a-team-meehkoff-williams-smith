@@ -8,5 +8,7 @@ public static void main (System []args) {
  
  Glad.glad();
  
+ Hungry.hungry();
+ 
   }
 }
